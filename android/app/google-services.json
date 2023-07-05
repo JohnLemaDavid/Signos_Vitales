@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "588511412763",
+    "firebase_url": "https://signos-vitales-81f9b-default-rtdb.firebaseio.com",
+    "project_id": "signos-vitales-81f9b",
+    "storage_bucket": "signos-vitales-81f9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588511412763:android:64f26e451e465bd295aebe",
+        "android_client_info": {
+          "package_name": "com.example.signos_vitales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588511412763-o0kb2k22jdsib2kjhifuc34e6e25sdqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQFhArNQGdxCAkMN0qUMp4zXc_U0aNWbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588511412763-o0kb2k22jdsib2kjhifuc34e6e25sdqk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "588511412763-r9kkdqtq8rdmc2anebl83kcs29p6njr0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.signosVitales"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
